@@ -28,6 +28,9 @@ module.exports = {
             "error",
             "never",
         ],
-        "no-extra-parens": "all"
-    }
+        "no-extra-parens": [
+            "error",
+            "all"
+        ],
+    },
 };
