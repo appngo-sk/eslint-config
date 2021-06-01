@@ -1,0 +1,23 @@
+{
+  "name": "@appngo-sk/eslint-config",
+  "version": "1.0.0",
+  "description": "Appngo's ESLint config module.",
+  "homepage": "https://github.com/appngo-sk/eslint-config.git",
+  "repository": "github:appngo-sk/eslint-config",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": {
+    "name": "appngo-sk",
+    "email": "appngo.sk@gmail.com"
+  },
+  "contributors": [
+    "Roman Stražanec <strazanec.roman@gmail.com> (https://github.com/romanstrazanec)",
+    "Šimon Hrmo <simon.hrmo@gmail.com> (https://github.com/simonhrmo)"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest"
+  }
+}
