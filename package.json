@@ -1,6 +1,6 @@
 {
   "name": "@appngo-sk/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Appngo's ESLint config module.",
   "homepage": "https://github.com/appngo-sk/eslint-config.git",
   "repository": "github:appngo-sk/eslint-config",
