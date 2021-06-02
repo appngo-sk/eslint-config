@@ -1,6 +1,6 @@
 {
   "name": "@appngo-sk/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Appngo's ESLint config module.",
   "homepage": "https://github.com/appngo-sk/eslint-config.git",
   "repository": "github:appngo-sk/eslint-config",
@@ -22,6 +22,7 @@
     "eslint-config-prettier": "latest",
     "eslint-plugin-prettier": "latest",
     "tslint-config-prettier": "latest",
-    "tslint-plugin-prettier": "latest"
+    "tslint-plugin-prettier": "latest",
+    "@appngo-sk/prettier": "latest"
   }
 }
