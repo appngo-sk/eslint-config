@@ -5,30 +5,15 @@ module.exports = {
     },
     extends: [
         "eslint:recommended",
-        "plugin:@typescript-eslint/recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
         "plugin:prettier/recommended",
     ],
     parser: "@typescript-eslint/parser",
     rules: {
-        indent: [
-            "error",
-            4,
-        ],
-        "linebreak-style": [
-            "error",
-            "unix",
-        ],
-        quotes: [
-            "error",
-            "double",
-        ],
-        semi: [
-            "error",
-            "never",
-        ],
-        "no-extra-parens": [
-            "error",
-            "all",
-        ],
+        indent: ["error", 4],
+        "linebreak-style": ["error", "unix"],
+        quotes: ["error", "double"],
+        semi: ["error", "never"],
+        "no-extra-parens": ["error", "all"],
     },
 };
