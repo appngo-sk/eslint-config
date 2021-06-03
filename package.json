@@ -1,6 +1,6 @@
 {
   "name": "@appngo-sk/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Appngo's ESLint config module.",
   "homepage": "https://github.com/appngo-sk/eslint-config.git",
   "repository": "github:appngo-sk/eslint-config",
@@ -15,7 +15,7 @@
     "Šimon Hrmo <simon.hrmo@gmail.com> (https://github.com/simonhrmo)"
   ],
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "latest",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
